@@ -34,7 +34,6 @@ outra inabilidade motora.
 * Resistores Diversos;
 
 ## Modo de Funcionamento
-1. O responsável pela atividade envia comandos de voz com um aplicativo (via bluetooth) para o *Meloclick*
-1.1 Pode-se utilizar qualquer aplicativo da Google Play Store que realize comunicação com módulo bluetooth HC-06.
+1. O responsável pela atividade envia comandos de voz com um aplicativo (via bluetooth) para o *Meloclick*. (Pode-se utilizar qualquer aplicativo da Google Play Store que realize comunicação com módulo bluetooth HC-06).
 2. O *Meloclick* executa a melodia com as respectivas notas e aciona o led de cor correspondente.
 3. O *Meloclick* entra em modo de teclado e espera o acionamento de algum botão (Nota Musical).
